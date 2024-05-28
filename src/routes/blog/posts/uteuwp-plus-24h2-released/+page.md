@@ -11,9 +11,9 @@ Yesterday, I completed UTE UWP Plus build 26100.1 and released it. Nothing very 
 Well, actually, *yes* it **is** significant.
 <br>
 Let me explain to you why...
+
 ## The build number
 This release is the **base build** of UTE UWP+ 24H2. The base build in this case is simply an initial build that a version of the app is based on. In this case, all later 24H2 builds will be based on 26100.1, and so will the Beta Channel builds 26120.xxxx.
-<br>
 ## Why May 27 specifically?
 Well, I chose to release all the Insider Previews at once on the same day to not have to make many separate releases afterwards and so that they are all grouped together under one release on the app's GitHub repository.
 I originally chose May 24, because then they would be released exactly one month before 26100.1's public release, but that date passed without me compiling any of the builds, so I decided on a new date, May 27.
@@ -124,5 +124,6 @@ What's New:
 Yes, I know. This changelog is absolutely massive. Well, I guess this just tells you that UTE UWP+ 24H2 is a massive release, almost as massive as UTE UWP 22H2's publlic release on September 20, 2022, nearly two years ago as of the time of writing of this post!
 
 You can get 26100.1 before June 24 by going here, and downloading one of the Insider Preview compiles: https://github.com/jpbandroid/UTE-UWP-Plus/releases/tag/10.0.26100.1
-<br>
-(Yes, it was released 20 hours ago as of the time of writing)
+
+
+(It was released 20 hours ago as of the time of writing)

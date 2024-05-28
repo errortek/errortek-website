@@ -2,7 +2,7 @@
 title: Hello world!
 description: This is my first post!
 thumbnail: /blog-resources/first-post/thumbnail.png
-date: 2024-05-28
+date: 2024-05-27
 author: jpbandroid
 ---
 
