@@ -7,9 +7,11 @@ author: jpbandroid
 ---
 
 Yesterday, I completed UTE UWP Plus build 26100.1 and released it. Nothing very significant, right?
-<br>
+
+
 Well, actually, *yes* it **is** significant.
-<br>
+
+
 Let me explain to you why...
 
 ## The build number
