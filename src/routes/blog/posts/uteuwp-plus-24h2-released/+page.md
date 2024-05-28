@@ -19,9 +19,11 @@ This release is the **base build** of UTE UWP+ 24H2. The base build in this case
 ## Why May 27 specifically?
 Well, I chose to release all the Insider Previews at once on the same day to not have to make many separate releases afterwards and so that they are all grouped together under one release on the app's GitHub repository.
 I originally chose May 24, because then they would be released exactly one month before 26100.1's public release, but that date passed without me compiling any of the builds, so I decided on a new date, May 27.
-<br>
+
+
 The actual reason I chose May 27 was just that I preferred the date over later in the month and that the release still had to be in May.
-<br>
+
+
 Now with that explained, let's get to the best part, the **FEATURES**!!
 ## Features
 UTE UWP+ 24H2's base build, 26100.1, will be the first ever public stable release of UTE UWP+, so there are tons of new features to explore, with the most notable ones shown and explained below.
