@@ -1,5 +1,5 @@
 ---
-title: jpbROM14 rollout tracker - new features, supported devices, and more! (updated June 2 2024)
+title: jpbROM14 rollout tracker - new features, supported devices, and more! (updated July 1 2024)
 description: Release tracker for jpbROM14 builds
 thumbnail: /blog-resources/jpbrom14-releasetracker/thumbnail.png
 date: 2024-06-02
@@ -16,8 +16,12 @@ The initial build of jpbROM14.1 released on March 30, 2024 (174 days after 14.0)
 
 The initial build of jpbROM14.2 released on June 2, 2024 (64 days after 14.1 and 238 days after 14.0).
 
+The initial build of jpbROM14.5 released on July 1, 2024 (29 days after 14.2, 93 days after 14.1, and 267 days after 14.0). 
+
 ## Rollout tracker
 
+<h3>Update 14 - July 1, 2024</h3>
+<p>jpbROM14.5 has now rolled out to the Android Emulator x86-64!<br>jpbROM has been rebased on Android 14 QPR3, with 14.5 featuring a new gallery app, Glimpse, ThemePicker, allowing for greater customization of the OS, and improvements to stability and security, bringing the June 2024 security patch.<br>Enjoy the new build of jpbROM 14!! ;D<br>Download the new build (V14.5.1.0.UDVMNMI) below:<br></p><a href="https://drive.google.com/file/d/1H52V0QtWagU6jOo2a1v4b2VAKjymg9Rk/view?usp=sharing">Download jpbROM 14.5.1.0.UDVMNMI emulator image</a>
 <h3>Update 13 - June 2, 2024</h3>
 <p>jpbROM14.2 has now rolled out to the Android Emulator x86-64!<br>Enjoy the new build of jpbROM 14!! ;D<br>Download the new build (V14.2.2.0.UDVMNMI) below:<br></p><a href="https://drive.google.com/file/d/1CDO__L7WydsP9-dCROK03JQ7DOahEAiI/view?usp=sharing">Download jpbROM 14.2.2.0.UDVMNMI emulator image</a>
 <h3>Update 12 - March 30, 2024</h3>
@@ -72,9 +76,9 @@ The initial build of jpbROM14.2 released on June 2, 2024 (64 days after 14.1 and
 <td><span data-sort-value="000000002023-10-01-0000" style="white-space:nowrap">October 1, 2023</span>
 </td></tr>
 <tr>
-<td>V14.2.2.0.UDVMNMI (Android 14)
+<td>V14.5.1.0.UDVMNMI (Android 14)
 </td>
-<td><span data-sort-value="000000002023-11-19-0000" style="white-space:nowrap">June 2, 2024</span>
+<td><span data-sort-value="000000002023-11-19-0000" style="white-space:nowrap">July 1, 2024</span>
 </td>
 </tr>
 <tr>
