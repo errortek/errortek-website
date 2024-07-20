@@ -32,36 +32,30 @@ The first beta of SurgeOS 15 was released on July 20, 2024!
 <tr>
 <td rowspan="2">Android Emulator x86-64
 </td>
-<td rowspan="2"><span data-sort-value="000000002023-07-24-0000" style="white-space:nowrap">July 24, 2023</span>
+<td rowspan="2"><span data-sort-value="000000002023-07-24-0000" style="white-space:nowrap">July 20, 2024</span>
 </td>
-<td>V14.0.23.9.2.DEV (Android 13)
+<td>15.0.0.1.UDVMNMI (Android 14)
 </td>
-<td><span data-sort-value="000000002023-10-01-0000" style="white-space:nowrap">October 1, 2023</span>
+<td><span data-sort-value="000000002023-10-01-0000" style="white-space:nowrap">July 20, 2024</span>
 </td></tr>
-<tr>
-<td>V14.5.2.0.UDVMNMI (Android 14)
-</td>
-<td><span data-sort-value="000000002023-11-19-0000" style="white-space:nowrap">July 7, 2024</span>
-</td>
-</tr>
 <tr>
 <td>Pixel 6a
 </td>
-<td><span data-sort-value="000000002023-05-14-0000" style="white-space:nowrap">compiled on October 25, 2023, release on October 29, 2023</span>
+<td><span data-sort-value="000000002023-05-14-0000" style="white-space:nowrap">October 2024</span>
 </td>
-<td>V14.0.2.0.UBLMNMI
+<td>15.0.1.0.VBLMNMI
 </td>
-<td><span data-sort-value="000000002023-05-14-0000" style="white-space:nowrap">November 27, 2023</span>
+<td><span data-sort-value="000000002023-05-14-0000" style="white-space:nowrap">to release October 2024</span>
 </td></tr>
 <tr>
 <td rowspan="2">Pixel 6 & Pixel 6 Pro
 </td>
-<td rowspan="2"><span data-sort-value="000000002023-04-11-0000" style="white-space:nowrap">November 27, 2023</span>
+<td rowspan="2"><span data-sort-value="000000002023-04-11-0000" style="white-space:nowrap">October/November 2024</span>
 </td>
-<td>V14.0.1.0.UORMNMI<br>
-V14.0.1.0.URAMNMI
+<td>15.0.1.0.VORMNMI<br>
+15.0.1.0.VRAMNMI
 </td>
-<td rowspan="2"><span data-sort-value="000000002023-04-30-0000" style="white-space:nowrap">November 27, 2023</span>
+<td rowspan="2"><span data-sort-value="000000002023-04-30-0000" style="white-space:nowrap">to release October/November 2024</span>
 </td>
 </tr>
 
