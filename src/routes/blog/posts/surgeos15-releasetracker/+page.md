@@ -1,7 +1,7 @@
 ---
 title: SurgeOS 15 rollout tracker - new features, supported devices, and more! (updated July 20 2024)
 description: Release tracker for SurgeOS 15 builds
-thumbnail: /blog-resources/surgeos15-releaseracker/thumbnail.png
+thumbnail: /blog-resources/surgeos15-releasetracker/thumbnail.png
 date: 2024-07-20
 author: jpbandroid
 ---
@@ -21,40 +21,47 @@ The first beta of SurgeOS 15 was released on July 20, 2024!
 <tbody><tr>
 <th rowspan="2">Device
 </th>
-<th rowspan="2">Rollout date (of first SurgeOS 15 build)
+<th rowspan="2">Rollout date (of first jpbROM 14 build)
 </th>
-<th rowspan="2">current SurgeOS version
+<th rowspan="2">current jpbROM version
 </th>
-<th rowspan="2">Release date of current SurgeOS version
+<th rowspan="2">Release date of current jpbROM version
 </th>
 </tr>
 <tr></tr>
 <tr>
 <td rowspan="2">Android Emulator x86-64
 </td>
-<td rowspan="2"><span data-sort-value="000000002023-07-24-0000" style="white-space:nowrap">July 20, 2024</span>
+<td rowspan="2"><span data-sort-value="000000002023-07-24-0000" style="white-space:nowrap">July 24, 2023</span>
 </td>
-<td>V15.0.0.1.UDVMNMI (Android 14)
+<td>V14.0.23.9.2.DEV (Android 13)
 </td>
-<td><span data-sort-value="000000002023-10-01-0000" style="white-space:nowrap">July 20, 2024</span>
+<td><span data-sort-value="000000002023-10-01-0000" style="white-space:nowrap">October 1, 2023</span>
 </td></tr>
+<tr>
+<td>V14.5.2.0.UDVMNMI (Android 14)
+</td>
+<td><span data-sort-value="000000002023-11-19-0000" style="white-space:nowrap">July 7, 2024</span>
+</td>
+</tr>
 <tr>
 <td>Pixel 6a
 </td>
-<td><span data-sort-value="000000002023-05-14-0000" style="white-space:nowrap">TBA</span>
+<td><span data-sort-value="000000002023-05-14-0000" style="white-space:nowrap">compiled on October 25, 2023, release on October 29, 2023</span>
 </td>
-<td>TBA
+<td>V14.0.2.0.UBLMNMI
 </td>
-<td><span data-sort-value="000000002023-05-14-0000" style="white-space:nowrap">TBA</span>
+<td><span data-sort-value="000000002023-05-14-0000" style="white-space:nowrap">November 27, 2023</span>
 </td></tr>
 <tr>
 <td rowspan="2">Pixel 6 & Pixel 6 Pro
 </td>
-<td rowspan="2"><span data-sort-value="000000002023-04-11-0000" style="white-space:nowrap">TBA</span>
+<td rowspan="2"><span data-sort-value="000000002023-04-11-0000" style="white-space:nowrap">November 27, 2023</span>
 </td>
-<td>TBA
+<td>V14.0.1.0.UORMNMI<br>
+V14.0.1.0.URAMNMI
 </td>
-<td rowspan="2"><span data-sort-value="000000002023-04-30-0000" style="white-space:nowrap">TBA</span>
+<td rowspan="2"><span data-sort-value="000000002023-04-30-0000" style="white-space:nowrap">November 27, 2023</span>
 </td>
 </tr>
 
