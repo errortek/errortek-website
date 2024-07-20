@@ -19,13 +19,13 @@ The first beta of SurgeOS 15 was released on July 20, 2024!
 
 <table class="wikitable" style="text-align:center;font-size:90%;margin-left:10px">
 <tbody><tr>
-<th rowspan="2">Device
+<th>Device
 </th>
-<th rowspan="2">Rollout date (of first jpbROM 14 build)
+<th>Rollout date (of first SurgeOS 15 build)
 </th>
-<th rowspan="2">current jpbROM version
+<th>current SurgeOS version
 </th>
-<th rowspan="2">Release date of current jpbROM version
+<th>Release date of current SurgeOS version
 </th>
 </tr>
 <tr>
