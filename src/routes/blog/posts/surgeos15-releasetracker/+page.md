@@ -28,11 +28,10 @@ The first beta of SurgeOS 15 was released on July 20, 2024!
 <th rowspan="2">Release date of current jpbROM version
 </th>
 </tr>
-<tr></tr>
 <tr>
-<td rowspan="2">Android Emulator x86-64
+<td>Android Emulator x86-64
 </td>
-<td rowspan="2"><span data-sort-value="000000002023-07-24-0000" style="white-space:nowrap">July 20, 2024</span>
+<td><span data-sort-value="000000002023-07-24-0000" style="white-space:nowrap">July 20, 2024</span>
 </td>
 <td>15.0.0.1.UDVMNMI (Android 14)
 </td>
