@@ -13,7 +13,7 @@ The first beta of SurgeOS 15 was released on July 20, 2024!
 ## Rollout tracker
 
 <h3>Update 1 - August 23, 2024</h3>
-<p>The secind beta of SurgeOS 15 has been released!!<br>Download the new build (V15.0.0.2.UDVMNMI) below:<br></p><a href="https://drive.google.com/file/d/1iU0CoreuOtXIMw3SrKFMkDZldhdZIwXQ/view?usp=sharing">Download SurgeOS 15 Beta 2 (15.0.0.2.UDVMNMI) emulator image</a>
+<p>The second beta of SurgeOS 15 has been released!!<br>Download the new build (V15.0.0.2.UDVMNMI) below:<br></p><a href="https://drive.google.com/file/d/1iU0CoreuOtXIMw3SrKFMkDZldhdZIwXQ/view?usp=sharing">Download SurgeOS 15 Beta 2 (15.0.0.2.UDVMNMI) emulator image</a>
 <h3>Update 0/Original - July 20, 2024</h3>
 <p>The first beta of SurgeOS 15 has been released!!<br>Download the new build (V15.0.0.1.UDVMNMI) below:<br></p><a href="https://drive.google.com/file/d/1KX0UxCUpXhrG3f_DVL8-NomAaXJpG6nk/view?usp=sharing">Download SurgeOS 15 Beta 1 (15.0.0.1.UDVMNMI) emulator image</a>
 
