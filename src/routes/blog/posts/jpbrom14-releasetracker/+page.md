@@ -1,5 +1,5 @@
 ---
-title: jpbROM14 rollout tracker - new features, supported devices, and more! (updated July 21 2024)
+title: jpbROM14 rollout tracker - new features, supported devices, and more! (updated August 26 2024)
 description: Release tracker for jpbROM14 builds
 thumbnail: /blog-resources/jpbrom14-releasetracker/thumbnail.png
 date: 2024-06-02
@@ -20,8 +20,10 @@ The initial build of jpbROM14.5 released on July 1, 2024 (29 days after 14.2, 93
 
 ## Rollout tracker
 
+<h3>Update 17 - August 26, 2024</h3>
+<p>This update to jpbROM brings a new jpb Launcher, several UI tweaks, app updates, many new features and the August 2024 security patch. However, the build falsely reports it is on the April 2024 security patch. (this bug will be fixed soon)<br>Enjoy the new build of jpbROM 14!! ;D<br>Download the new build (V14.5.4.0.UDVMNMI) below:<br></p><a href="https://drive.google.com/file/d/1eibaI5RdYVSnZqtOlLSqIs3izyLqaDPW/view?usp=sharing">Download jpbROM 14.5.4.0.UDVMNMI emulator image</a>
 <h3>Update 16 - July 21, 2024</h3>
-<p>This update to jpbROM brings udates to Jelly, notification shade blurs, and a UI update to Search.<br>Enjoy the new build of jpbROM 14!! ;D<br>Download the new build (V14.5.3.0.UDVMNMI) below:<br></p><a href="https://drive.google.com/file/d/1uyC1KnCUyrIESg-CJdDGZscfHVYFi7sz/view?usp=sharing">Download jpbROM 14.5.3.0.UDVMNMI emulator image</a>
+<p>This update to jpbROM brings updates to Jelly, notification shade blurs, and a UI update to Search.<br>Enjoy the new build of jpbROM 14!! ;D<br>Download the new build (V14.5.3.0.UDVMNMI) below:<br></p><a href="https://drive.google.com/file/d/1uyC1KnCUyrIESg-CJdDGZscfHVYFi7sz/view?usp=sharing">Download jpbROM 14.5.3.0.UDVMNMI emulator image</a>
 <h3>Update 15 - July 7, 2024</h3>
 <p>This update to jpbROM brings the July 2024 security patch, the Eleven music player, and updates to Settings, Jelly and Aperture.<br>Enjoy the new build of jpbROM 14!! ;D<br>Download the new build (V14.5.2.0.UDVMNMI) below:<br></p><a href="https://drive.google.com/file/d/1ELDmdID_-sRFPkgO_OWZxZTTcnK1l81e/view?usp=sharing">Download jpbROM 14.5.2.0.UDVMNMI emulator image</a>
 <h3>Update 14 - July 1, 2024</h3>
@@ -80,19 +82,19 @@ The initial build of jpbROM14.5 released on July 1, 2024 (29 days after 14.2, 93
 <td><span data-sort-value="000000002023-10-01-0000" style="white-space:nowrap">October 1, 2023</span>
 </td></tr>
 <tr>
-<td>V14.5.3.0.UDVMNMI (Android 14)
+<td>V14.5.4.0.UDVMNMI (Android 14)
 </td>
-<td><span data-sort-value="000000002023-11-19-0000" style="white-space:nowrap">July 21, 2024</span>
+<td><span data-sort-value="000000002024-08-26-0000" style="white-space:nowrap">August 26, 2024</span>
 </td>
 </tr>
 <tr>
 <td>Pixel 6a
 </td>
-<td><span data-sort-value="000000002023-05-14-0000" style="white-space:nowrap">compiled on October 25, 2023, release on October 29, 2023</span>
+<td><span data-sort-value="000000002023-10-29-0000" style="white-space:nowrap">compiled on October 25, 2023, release on October 29, 2023</span>
 </td>
 <td>V14.0.2.0.UBLMNMI
 </td>
-<td><span data-sort-value="000000002023-05-14-0000" style="white-space:nowrap">November 27, 2023</span>
+<td><span data-sort-value="000000002023-11-27-0000" style="white-space:nowrap">November 27, 2023</span>
 </td></tr>
 <tr>
 <td rowspan="2">Pixel 6 & Pixel 6 Pro
