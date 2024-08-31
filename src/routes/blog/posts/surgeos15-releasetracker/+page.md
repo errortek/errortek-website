@@ -1,5 +1,5 @@
 ---
-title: SurgeOS 15 rollout tracker - new features, supported devices, and more! (updated August 23 2024)
+title: SurgeOS 15 rollout tracker - new features, supported devices, and more! (updated August 31 2024)
 description: Release tracker for SurgeOS 15 builds
 thumbnail: /blog-resources/surgeos15-releasetracker/thumbnail.png
 date: 2024-07-20
@@ -9,9 +9,12 @@ author: jpbandroid
 
 
 The first beta of SurgeOS 15 was released on July 20, 2024!
+The public stable release of SurgeOS 15 is expected in September/October 2024 (between September 5 and October 5).
 
 ## Rollout tracker
 
+<h3>Update 2 - August 31, 2024</h3>
+<p>The third beta of SurgeOS 15 has been released!!<br>Download the new build (V15.0.0.3.UDVMNMI) below:<br></p><a href="https://drive.google.com/file/d/1_uRDdWEsbJPhtiD0oRIVQWCQMsCJvEm6/view?usp=sharing">Download SurgeOS 15 Beta 3 (15.0.0.3.UDVMNMI) emulator image</a>
 <h3>Update 1 - August 23, 2024</h3>
 <p>The second beta of SurgeOS 15 has been released!!<br>Download the new build (V15.0.0.2.UDVMNMI) below:<br></p><a href="https://drive.google.com/file/d/1iU0CoreuOtXIMw3SrKFMkDZldhdZIwXQ/view?usp=sharing">Download SurgeOS 15 Beta 2 (15.0.0.2.UDVMNMI) emulator image</a>
 <h3>Update 0/Original - July 20, 2024</h3>
@@ -35,9 +38,9 @@ The first beta of SurgeOS 15 was released on July 20, 2024!
 </td>
 <td><span data-sort-value="000000002023-07-24-0000" style="white-space:nowrap">July 20, 2024</span>
 </td>
-<td>15.0.0.2.UDVMNMI (Android 14)
+<td>15.0.0.3.UDVMNMI (Android 14)
 </td>
-<td><span data-sort-value="000000002023-10-01-0000" style="white-space:nowrap">August 23, 2024</span>
+<td><span data-sort-value="000000002023-10-01-0000" style="white-space:nowrap">August 31, 2024</span>
 </td></tr>
 <tr>
 <td>Pixel 6a
