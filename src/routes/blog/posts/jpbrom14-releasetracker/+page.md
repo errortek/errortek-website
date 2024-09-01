@@ -1,5 +1,5 @@
 ---
-title: jpbROM14 rollout tracker - new features, supported devices, and more! (updated August 26 2024)
+title: jpbROM14 rollout tracker - new features, supported devices, and more! (updated September 1 2024)
 description: Release tracker for jpbROM14 builds
 thumbnail: /blog-resources/jpbrom14-releasetracker/thumbnail.png
 date: 2024-06-02
