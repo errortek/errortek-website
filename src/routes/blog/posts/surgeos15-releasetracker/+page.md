@@ -1,5 +1,5 @@
 ---
-title: SurgeOS 15 rollout tracker - new features, supported devices, and more! (updated August 31 2024)
+title: SurgeOS 15 rollout tracker - new features, supported devices, and more! (updated September 5 2024)
 description: Release tracker for SurgeOS 15 builds
 thumbnail: /blog-resources/surgeos15-releasetracker/thumbnail.png
 date: 2024-07-20
@@ -9,10 +9,13 @@ author: jpbandroid
 
 
 The first beta of SurgeOS 15 was released on July 20, 2024!
-The public stable release of SurgeOS 15 is expected in September/October 2024 (between September 5 and October 5).
+The second and third betas released on August 23 and August 31, respectively.
+The public stable release of SurgeOS 15 has been released on September 5, 2024!
 
 ## Rollout tracker
 
+<h3>Update 3 - September 5, 2024</h3>
+<p>The first stable build of SurgeOS 15 has been released!!<br>It brings Android 15, the SurgeOS rebrand, Private Space, a Material3 overhaul of jpb Launcher, new icons for jpb Launcher and Search, as well as a new Credits UI im Settings (found in Legal information).<br>Download the new build (V15.0.1.0.VDVMNMI) below:<br></p><a href="https://drive.google.com/file/d/1oLltXtBfL0yJrkZytExc1woXLIGlAJ4L/view?usp=sharing">Download SurgeOS 15 (15.0.1.0.UDVMNMI) emulator image</a>
 <h3>Update 2 - August 31, 2024</h3>
 <p>The third beta of SurgeOS 15 has been released!!<br>Download the new build (V15.0.0.3.UDVMNMI) below:<br></p><a href="https://drive.google.com/file/d/1_uRDdWEsbJPhtiD0oRIVQWCQMsCJvEm6/view?usp=sharing">Download SurgeOS 15 Beta 3 (15.0.0.3.UDVMNMI) emulator image</a>
 <h3>Update 1 - August 23, 2024</h3>
@@ -24,24 +27,31 @@ The public stable release of SurgeOS 15 is expected in September/October 2024 (b
 
 <table class="wikitable" style="text-align:center;font-size:90%;margin-left:10px">
 <tbody><tr>
-<th>Device
+<th rowspan="2">Device
 </th>
-<th>Rollout date (of first SurgeOS 15 build)
+<th rowspan="2">Rollout date (of first SurgeOS build)
 </th>
-<th>current SurgeOS version
+<th rowspan="2">current SurgeOS version
 </th>
-<th>Release date of current SurgeOS version
+<th rowspan="2">Release date of current SurgeOS version
 </th>
 </tr>
+<tr></tr>
 <tr>
-<td>Android Emulator x86-64
+<td rowspan="2">Android Emulator x86-64
 </td>
-<td><span data-sort-value="000000002023-07-24-0000" style="white-space:nowrap">July 20, 2024</span>
+<td rowspan="2"><span data-sort-value="000000002023-07-24-0000" style="white-space:nowrap">July 20, 2024</span>
 </td>
-<td>15.0.0.3.UDVMNMI (Android 14)
+<td>V15.0.0.3.UDVMNMI (Android 14)
 </td>
 <td><span data-sort-value="000000002023-10-01-0000" style="white-space:nowrap">August 31, 2024</span>
 </td></tr>
+<tr>
+<td>V15.0.1.0.VDVMNMI (Android 15)
+</td>
+<td><span data-sort-value="000000002024-08-26-0000" style="white-space:nowrap">September 5, 2024</span>
+</td>
+</tr>
 <tr>
 <td>Pixel 6a
 </td>
