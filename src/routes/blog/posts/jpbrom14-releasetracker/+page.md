@@ -1,5 +1,5 @@
 ---
-title: jpbROM14 rollout tracker - new features, supported devices, and more! (updated September 1 2024)
+title: jpbROM14 rollout tracker - new features, supported devices, and more! (updated September 30 2024)
 description: Release tracker for jpbROM14 builds
 thumbnail: /blog-resources/jpbrom14-releasetracker/thumbnail.png
 date: 2024-06-02
@@ -20,6 +20,8 @@ The initial build of jpbROM14.5 released on July 1, 2024 (29 days after 14.2, 93
 
 ## Rollout tracker
 
+<h3>Update 19 - September 30, 2024</h3>
+<p>This update to jpbROM brings the September 2024 security patch!<br>Enjoy the new build of jpbROM 14!! ;D<br>Download the new build (V14.5.6.0.UDVMNMI) below:<br></p><a href="https://drive.google.com/file/d/1PuOEB44gsbnCy26Iy4K-lSwi2zkBOQdg/view?usp=sharing">Download jpbROM 14.5.6.0.UDVMNMI emulator image</a>
 <h3>Update 18 - September 1, 2024</h3>
 <p>This update to jpbROM brings a bugfix for the security patch being mislabelled as April 2024 in Settings (it's now showing August 2024), and updates to jpb Launcher and Search, which include the new icons released as part of SurgeOS 15 Beta 3!<br>Enjoy the new build of jpbROM 14!! ;D<br>Download the new build (V14.5.5.0.UDVMNMI) below:<br></p><a href="https://drive.google.com/file/d/16JFa3i_jDomsQGcyKkTHsgtM9CQP45wC/view?usp=sharing">Download jpbROM 14.5.5.0.UDVMNMI emulator image</a>
 <h3>Update 17 - August 26, 2024</h3>
@@ -84,9 +86,9 @@ The initial build of jpbROM14.5 released on July 1, 2024 (29 days after 14.2, 93
 <td><span data-sort-value="000000002023-10-01-0000" style="white-space:nowrap">October 1, 2023</span>
 </td></tr>
 <tr>
-<td>V14.5.5.0.UDVMNMI (Android 14)
+<td>V14.5.6.0.UDVMNMI (Android 14)
 </td>
-<td><span data-sort-value="000000002024-08-26-0000" style="white-space:nowrap">September 1, 2024</span>
+<td><span data-sort-value="000000002024-08-26-0000" style="white-space:nowrap">September 30, 2024</span>
 </td>
 </tr>
 <tr>
