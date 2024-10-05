@@ -1,5 +1,5 @@
 ---
-title: SurgeOS 15 rollout tracker - new features, supported devices, and more! (updated September 5 2024)
+title: SurgeOS 15 rollout tracker - new features, supported devices, and more! (updated October 5 2024)
 description: Release tracker for SurgeOS 15 builds
 thumbnail: /blog-resources/surgeos15-releasetracker/thumbnail.png
 date: 2024-07-20
@@ -14,6 +14,8 @@ The public stable release of SurgeOS 15 has been released on September 5, 2024!
 
 ## Rollout tracker
 
+<h3>Update 4 - October 5, 2024</h3>
+ErrorTek's October 5 release event is underway, and it has been earlier revealed by ErrorTek (on October 4) that SurgeOS 15.0.2.0.VDVMNMI will come with a UI revamp. It is still unknown whether SurgeOS 15.0.2.0 will be released earlier than October 15 (i.e. no October security patch) or later (i.e. with the October security patch).
 <h3>Update 3 - September 5, 2024</h3>
 <p>The first stable build of SurgeOS 15 has been released!!<br>It brings Android 15, the SurgeOS rebrand, Private Space, a Material3 overhaul of jpb Launcher, new icons for jpb Launcher and Search, as well as a new Credits UI im Settings (found in Legal information).<br>Download the new build (V15.0.1.0.VDVMNMI) below:<br></p><a href="https://drive.google.com/file/d/1oLltXtBfL0yJrkZytExc1woXLIGlAJ4L/view?usp=sharing">Download SurgeOS 15 (15.0.1.0.UDVMNMI) emulator image</a>
 <h3>Update 2 - August 31, 2024</h3>
