@@ -47,7 +47,7 @@
 <div class="navbar">
 	<div class="navbar-inner">
 		<nav class="inner">
-			<img class="logo" src="https://avatars.githubusercontent.com/errortek"/>
+			<img class="logo" src="https://avatars.githubusercontent.com/errortek" width="32" height="32"/>
 			{#if innerWidth > 648}
 				<div class="divider" />
 				{#each items as { name, path, external, icon, type }}
