@@ -47,7 +47,7 @@
 <div class="navbar">
 	<div class="navbar-inner">
 		<nav class="inner">
-			<a class="logo" href="https://avatars.githubusercontent.com/errortek" data-sveltekit-prefetch>  </a>
+			<img class="logo" src="https://avatars.githubusercontent.com/errortek">  </img>
 			{#if innerWidth > 648}
 				<div class="divider" />
 				{#each items as { name, path, external, icon, type }}
