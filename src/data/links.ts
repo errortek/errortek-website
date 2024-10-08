@@ -1,6 +1,6 @@
 export const links = {
 	youtube: "errortechyt",
-	github: "jpbandroid"
+	github: "errortek"
 };
 
 export type NavbarItem = {

@@ -26,8 +26,8 @@
 		<meta content="summary_large_image" name="twitter:card" />
 	{:else}
 		<meta content="summary" name="twitter:card" />
-		<meta content="https://avatars.githubusercontent.com/jpbandroid" name="twitter:image" />
-		<meta content="https://avatars.githubusercontent.com/jpbandroid" name="og:image" />
+		<meta content="https://avatars.githubusercontent.com/errortek" name="twitter:image" />
+		<meta content="https://avatars.githubusercontent.com/errortek" name="og:image" />
 	{/if}
 	<meta content={description} name="description" />
 	<meta content={description} name="og:description" />

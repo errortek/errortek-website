@@ -12,11 +12,11 @@
 		<img
 			draggable={false}
 			class="hero-image"
-			src="https://avatars.githubusercontent.com/jpbandroid"
+			src="https://avatars.githubusercontent.com/errortek"
 			alt="ET's profile"
 		/>
 		<div class="hero-contents">
-			<TextBlock variant="titleLarge">jpbandroid (aka ErrorTek, jpb)</TextBlock>
+			<TextBlock variant="titleLarge">ErrorTek (aka jpb)</TextBlock>
 			<TextBlock>
 				Tech YouTuber, Android and Windows app dev, Mica Alt enjoyer...
 				</TextBlock>

@@ -3,7 +3,7 @@ title: UltraTextEdit UWP Plus 24H2's base build now out for Insiders!
 description: The build, 26100.1, was released yesterday to all Insider Channels.
 thumbnail: /blog-resources/uteuwp-plus-24h2-released/thumbnail.png
 date: 2024-05-28
-author: jpbandroid
+author: errortek
 ---
 
 Yesterday, I completed UTE UWP Plus build 26100.1 and released it. Nothing very significant, right?
