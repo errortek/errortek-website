@@ -1,5 +1,5 @@
-﻿# ErrorTek's Blog
-Welcome to the GitHub repository for my blog, where I talk about various random things like UTE updates or some discoveries I've made!
+﻿# ErrorTek website
+Welcome to the GitHub repository for my website!
 <br>
 This site is licensed under the MIT License, so you are free to clone it and make your own out of it - as long as you provide attribution to the people mentioned in the Credits section of this README! 😅
 ## Credits/Special thanks to
