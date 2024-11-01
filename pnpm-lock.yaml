@@ -15,8 +15,8 @@ importers:
         specifier: ^1.1.225
         version: 1.1.225
       '@sveltejs/adapter-vercel':
-        specifier: ^4.0.4
-        version: 4.0.4(@sveltejs/kit@2.3.2(@sveltejs/vite-plugin-svelte@3.0.1(svelte@4.2.8)(vite@5.1.8(sass@1.69.7)))(svelte@4.2.8)(vite@5.1.8(sass@1.69.7)))
+        specifier: ^4.0.5
+        version: 4.0.5(@sveltejs/kit@2.3.2(@sveltejs/vite-plugin-svelte@3.0.1(svelte@4.2.8)(vite@5.1.8(sass@1.69.7)))(svelte@4.2.8)(vite@5.1.8(sass@1.69.7)))
       '@sveltejs/kit':
         specifier: ^2.3.2
         version: 2.3.2(@sveltejs/vite-plugin-svelte@3.0.1(svelte@4.2.8)(vite@5.1.8(sass@1.69.7)))(svelte@4.2.8)(vite@5.1.8(sass@1.69.7))
@@ -329,8 +329,8 @@ packages:
     cpu: [x64]
     os: [win32]
 
-  '@sveltejs/adapter-vercel@4.0.4':
-    resolution: {integrity: sha512-2MMThT6eROTqAGmx81Xv+tafhpetQfRUDIsboFiGgkFoaxcmoTzW4t9GyXZdMY8xl1YOdvAnZXcCgacYzmVWVw==}
+  '@sveltejs/adapter-vercel@4.0.5':
+    resolution: {integrity: sha512-SABZvRry8pUggFrBLbIi88dCH5gP3M0O/8HvvLjOTCwTVn3E8H1ppJ8ujhj8xNuoi4rm9JVy6qYSYp2EsgOugw==}
     peerDependencies:
       '@sveltejs/kit': ^2.0.0
 
@@ -1778,7 +1778,7 @@ snapshots:
   '@rollup/rollup-win32-x64-msvc@4.9.5':
     optional: true
 
-  '@sveltejs/adapter-vercel@4.0.4(@sveltejs/kit@2.3.2(@sveltejs/vite-plugin-svelte@3.0.1(svelte@4.2.8)(vite@5.1.8(sass@1.69.7)))(svelte@4.2.8)(vite@5.1.8(sass@1.69.7)))':
+  '@sveltejs/adapter-vercel@4.0.5(@sveltejs/kit@2.3.2(@sveltejs/vite-plugin-svelte@3.0.1(svelte@4.2.8)(vite@5.1.8(sass@1.69.7)))(svelte@4.2.8)(vite@5.1.8(sass@1.69.7)))':
     dependencies:
       '@sveltejs/kit': 2.3.2(@sveltejs/vite-plugin-svelte@3.0.1(svelte@4.2.8)(vite@5.1.8(sass@1.69.7)))(svelte@4.2.8)(vite@5.1.8(sass@1.69.7))
       '@vercel/nft': 0.26.2
