@@ -1,5 +1,5 @@
 ---
-title: SurgeOS 15 rollout tracker - new features, supported devices, and more! (updated October 5 2024)
+title: SurgeOS 15 rollout tracker - new features, supported devices, and more! (updated October 27 2024)
 description: Release tracker for SurgeOS 15 builds
 thumbnail: /blog-resources/surgeos15-releasetracker/thumbnail.png
 date: 2024-07-20
