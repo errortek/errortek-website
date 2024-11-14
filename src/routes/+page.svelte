@@ -54,6 +54,7 @@
 		</div>
 	</div>	
 </div>
+<TextBlock text="Welcome to my website! I'm just a tech YouTuber and app dev in my free time, and I'm mostly active on Discord (as of right now), but also have accounts on Spacebar, Mastodon and Bluesky." />
 
 <style lang="scss">
 	@use "src/styles/pages/home";
