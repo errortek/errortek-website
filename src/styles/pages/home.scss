@@ -2,7 +2,7 @@
 
 :global {
     #hero-section {
-        @include flex($direction: row, $justify: center, $align: center);
+        @include flex($direction: row, $justify: center, $align: top);
         position: relative;
         align-self: center;
         padding: 50px;
