@@ -54,7 +54,10 @@
 		</div>
 	</div>	
 </div>
-<TextBlock>Welcome to my website! I'm just a tech YouTuber and app dev in my free time; I'm mostly active on Discord (as of right now), but also have accounts on Spacebar, Mastodon and Bluesky.</TextBlock>
+<TextBlock>Welcome to my website! I'm just a tech YouTuber and app dev in my free time...</TextBlock>
+<TextBlock>If you want to check out any updates to my projects, go check out the Blog tab.</TextBlock>
+<TextBlock variant="bodyStrong">I'm currently in the process of improving my site, so feel free to give me some suggestions on what I could change!</TextBlock>
+<TextBlock>If you want to contact me, I'm mostly active on Discord (as of right now), but also have accounts on Spacebar, Mastodon and Bluesky.</TextBlock>
 
 <style lang="scss">
 	@use "src/styles/pages/home";
