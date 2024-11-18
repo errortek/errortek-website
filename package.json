@@ -13,7 +13,7 @@
 		"@fec/remark-a11y-emoji": "^4.0.2",
 		"@fluentui/svg-icons": "^1.1.225",
 		"@sveltejs/adapter-vercel": "^5.4.6",
-		"@sveltejs/kit": "^2.4.3",
+		"@sveltejs/kit": "^2.8.1",
 		"@sveltejs/vite-plugin-svelte": "^3.0.1",
 		"autoprefixer": "^10.4.16",
 		"cssnano": "^7.0.6",
